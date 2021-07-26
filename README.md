@@ -3,7 +3,7 @@
 >주 사용 언어 : __C/C++__
 
 ## C / C++
-###Easy
+### Easy
 * __naive__
   + [Two Sum](https://leetcode.com/problems/two-sum/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Two_Sum.c)
 
