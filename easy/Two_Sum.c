@@ -1,7 +1,7 @@
 /*
 ---------------------------------------------
 Two_Sum
-from : https://leetcode.com/problems/two-sum/submissions/
+from : https://leetcode.com/problems/two-sum/
 ---------------------------------------------
 */
 
