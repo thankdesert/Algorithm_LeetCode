@@ -1,6 +1,6 @@
 # SH's Sources
->This is the space for source codes using to solve a problems from the [LeetCode](https://leetcode.com/).
->mainly be used : __C/C++__
+> This is the space for source codes using to solve a problems from the [LeetCode](https://leetcode.com/).
+> mainly be used : __C/C++__
 
 ## C / C++
 ### Easy
