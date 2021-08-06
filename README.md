@@ -7,6 +7,7 @@
 * __naive__
   + [Two Sum](https://leetcode.com/problems/two-sum/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Two_Sum.c)
   + [Reverse Integer](https://leetcode.com/problems/reverse-integer/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Reverse_Integer.c)
+  + [Roman_to_Integer](https://leetcode.com/problems/roman-to-integer/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Roman_to_Integer.c)
 ### Medium
 * __naive__
   + [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Add_Two_Numbers.c)
