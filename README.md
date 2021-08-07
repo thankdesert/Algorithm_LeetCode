@@ -10,6 +10,7 @@
   + [Roman_to_Integer](https://leetcode.com/problems/roman-to-integer/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Roman_to_Integer.c)
   + [Palindrome_Number](https://leetcode.com/problems/palindrome-number/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Palindrome_Number.c)
   + [Longest_Common_Prefix](https://leetcode.com/problems/longest-common-prefix/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Longest_Common_Prefix.c)
+  + [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Valid_Parentheses.c)
 ### Medium
 * __naive__
   + [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Add_Two_Numbers.c)
