@@ -14,5 +14,6 @@
 * __naive__
   + [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Add_Two_Numbers.c)
   + [Longest_Substring_Without_Repeating_Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Longest_Substring_Without_Repeating_Characters.c)
+  + [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/String_to_Integer_(atoi).c)
 
 ![4411](https://user-images.githubusercontent.com/46125548/125159966-81ec2880-e1b5-11eb-8463-5e3bcfb711e8.jpg)
