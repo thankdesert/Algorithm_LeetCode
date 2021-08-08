@@ -13,6 +13,7 @@
   + [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Valid_Parentheses.c)
   + [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Merge_Two_Sorted_Lists.c)
   + [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Remove_Duplicates_from_Sorted_Array.c)
+  + [Remove Element](https://leetcode.com/problems/remove-element/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Remove_Element.c)
 ### Medium
 * __naive__
   + [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Add_Two_Numbers.c)
