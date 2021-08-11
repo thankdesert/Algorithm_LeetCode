@@ -26,6 +26,7 @@
   + [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Best_Time_to_Buy_and_Sell_Stock_II.cpp)
   + [Counting bits](https://leetcode.com/problems/counting-bits/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Counting_Bits.cpp)
   + [Is Subsequence](https://leetcode.com/problems/is-subsequence/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Is_Subsequence.cpp)
+  + [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Min_Cost_Climbing_Stairs.cpp)
 ### Medium
 * __naive__
   + [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Add_Two_Numbers.c)
