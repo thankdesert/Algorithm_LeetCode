@@ -23,6 +23,7 @@
   + [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Best_Time_to_Buy_and_Sell_Stock.c)
   + [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Climbing_Stairs.cpp)
   + [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Best_Time_to_Buy_and_Sell_Stock_II.cpp)
+  + [Counting bits](https://leetcode.com/problems/counting-bits/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Counting_Bits.cpp)
 ### Medium
 * __naive__
   + [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Add_Two_Numbers.c)
