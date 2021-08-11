@@ -18,6 +18,7 @@
   + [implement-strstr()](https://leetcode.com/problems/implement-strstr/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Implement_strStr().c)
   + [Search Insert Position](https://leetcode.com/problems/search-insert-position/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Search_Insert_Position.c)
   + [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Length_of_Last_Word.c)
+  + [Sqrt(x)](https://leetcode.com/problems/sqrtx/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Sqrt(x).cpp)
 * __dynamic programming__
   + [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Maximum_Subarray.c)
   + [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Best_Time_to_Buy_and_Sell_Stock.c)
