@@ -2,6 +2,8 @@
 > This is the space for source codes using to solve a problems from the [LeetCode](https://leetcode.com/).</br>
 > mainly be used : __C/C++__
 
+![4411](https://user-images.githubusercontent.com/46125548/125159966-81ec2880-e1b5-11eb-8463-5e3bcfb711e8.jpg)
+
 ## C / C++
 ### Easy
 * __naive__
@@ -36,4 +38,6 @@
   + [Longest_Substring_Without_Repeating_Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Longest_Substring_Without_Repeating_Characters.c)
   + [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/String_to_Integer_(atoi).c)
 
-![4411](https://user-images.githubusercontent.com/46125548/125159966-81ec2880-e1b5-11eb-8463-5e3bcfb711e8.jpg)
+## MySql
+### Easy
+* [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) > [Query](https://github.com/thankdesert/LeetCode/blob/main/Mysql/easy/Combine_Two_Tables.mysql)
