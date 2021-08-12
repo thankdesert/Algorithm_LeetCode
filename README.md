@@ -29,6 +29,7 @@
   + [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Min_Cost_Climbing_Stairs.cpp)
   + [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Fibonacci_Number.cpp)
   + [Divisor Game](https://leetcode.com/problems/divisor-game/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Divisor_Game.cpp)
+  + [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/N-th_Tribonacci_Number.cpp)
 ### Medium
 * __naive__
   + [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Add_Two_Numbers.c)
