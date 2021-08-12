@@ -41,3 +41,4 @@
 ## MySql
 ### Easy
 * [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) > [Query](https://github.com/thankdesert/LeetCode/blob/main/Mysql/easy/Combine_Two_Tables.mysql)
+* [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) > [Query](https://github.com/thankdesert/LeetCode/blob/main/Mysql/easy/Second_Highest_Salary.mysql)
