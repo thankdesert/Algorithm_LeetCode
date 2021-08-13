@@ -40,6 +40,7 @@
   + [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/String_to_Integer_(atoi).c)
 * __dynamic programming__
   + [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Longest_Palindromic_Substring.cpp)
+  + [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Generate_Parentheses.cpp)
 
 ## MySql
 ### Easy
