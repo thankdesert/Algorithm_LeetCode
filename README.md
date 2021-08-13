@@ -38,6 +38,8 @@
   + [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Add_Two_Numbers.c)
   + [Longest_Substring_Without_Repeating_Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Longest_Substring_Without_Repeating_Characters.c)
   + [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/String_to_Integer_(atoi).c)
+* __dynamic programming__
+  + [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Longest_Palindromic_Substring.cpp)
 
 ## MySql
 ### Easy
