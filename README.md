@@ -42,6 +42,9 @@
 * __dynamic programming__
   + [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Longest_Palindromic_Substring.cpp)
   + [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Generate_Parentheses.cpp)
+## Hard
+* __dynamic programming__
+  + [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/hard/Regular_Expression_Matching.cpp)
 
 ## MySql
 ### Easy
