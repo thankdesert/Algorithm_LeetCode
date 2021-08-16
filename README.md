@@ -48,6 +48,7 @@
 * __dynamic programming__
   + [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/hard/Regular_Expression_Matching.cpp)
   + [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/hard/Longest_Valid_Parentheses.cpp)
+  + [Unique Paths](https://leetcode.com/problems/unique-paths/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Unique_Paths.cpp)
 
 ## MySql
 ### Easy
