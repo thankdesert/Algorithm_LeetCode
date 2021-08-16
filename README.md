@@ -44,11 +44,11 @@
   + [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Generate_Parentheses.cpp)
   + [Jump Game](https://leetcode.com/problems/jump-game/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Jump_Game.cpp)
   + [Jump Game II](https://leetcode.com/problems/jump-game-ii/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Jump_Game_II.cpp)
+  + [Unique Paths](https://leetcode.com/problems/unique-paths/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Unique_Paths.cpp)
 ## Hard
 * __dynamic programming__
   + [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/hard/Regular_Expression_Matching.cpp)
   + [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/hard/Longest_Valid_Parentheses.cpp)
-  + [Unique Paths](https://leetcode.com/problems/unique-paths/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Unique_Paths.cpp)
 
 ## MySql
 ### Easy
