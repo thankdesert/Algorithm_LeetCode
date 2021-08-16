@@ -42,6 +42,7 @@
 * __dynamic programming__
   + [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Longest_Palindromic_Substring.cpp)
   + [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Generate_Parentheses.cpp)
+  + [Jump Game](https://leetcode.com/problems/jump-game/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Jump_Game.cpp)
   + [Jump Game II](https://leetcode.com/problems/jump-game-ii/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Jump_Game_II.cpp)
 ## Hard
 * __dynamic programming__
