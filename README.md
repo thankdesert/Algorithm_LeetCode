@@ -24,6 +24,7 @@
 * __tree__
   + [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Binary_Tree_Inorder_Traversal.cpp)
   + [Same Tree](https://leetcode.com/problems/same-tree/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Same_Tree.cpp)
+  + [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Symmetric_Tree.cpp)
 * __dynamic programming__
   + [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Maximum_Subarray.c)
   + [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Best_Time_to_Buy_and_Sell_Stock.c)
