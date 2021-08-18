@@ -23,6 +23,7 @@
   + [Sqrt(x)](https://leetcode.com/problems/sqrtx/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Sqrt(x).cpp)
 * __tree__
   + [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Binary_Tree_Inorder_Traversal.cpp)
+  + [Same Tree](https://leetcode.com/problems/same-tree/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Same_Tree.cpp)
 * __dynamic programming__
   + [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Maximum_Subarray.c)
   + [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Best_Time_to_Buy_and_Sell_Stock.c)
@@ -35,8 +36,7 @@
   + [Divisor Game](https://leetcode.com/problems/divisor-game/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Divisor_Game.cpp)
   + [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/N-th_Tribonacci_Number.cpp)
   + [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Get_Maximum_in_Generated_Array.cpp)
-  + [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Pascal's_Triangle.cpp)
-  + [Same Tree](https://leetcode.com/problems/same-tree/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Same_Tree.cpp)
+  + [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Pascal's_Triangle.cpp)\
 ### Medium
 * __naive__
   + [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Add_Two_Numbers.c)
