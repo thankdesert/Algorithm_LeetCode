@@ -22,6 +22,8 @@
   + [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Length_of_Last_Word.c)
   + [Sqrt(x)](https://leetcode.com/problems/sqrtx/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Sqrt(x).cpp)
   + [Power of Two](https://leetcode.com/problems/power-of-two/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Power_of_Two.cpp)
+* __hash map__
+  + [Valid Anagram](https://leetcode.com/problems/valid-anagram/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Valid_Anagram.cpp)
 * __linked list__
   + [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Linked_List_Cycle.cpp)
 * __tree__
