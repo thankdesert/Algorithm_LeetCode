@@ -22,6 +22,8 @@
   + [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Length_of_Last_Word.c)
   + [Sqrt(x)](https://leetcode.com/problems/sqrtx/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Sqrt(x).cpp)
   + [Power of Two](https://leetcode.com/problems/power-of-two/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Power_of_Two.cpp)
+* __linked list__
+  + [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Linked_List_Cycle.cpp)
 * __tree__
   + [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Binary_Tree_Inorder_Traversal.cpp)
   + [Same Tree](https://leetcode.com/problems/same-tree/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Same_Tree.cpp)
