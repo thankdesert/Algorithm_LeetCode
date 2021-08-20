@@ -26,6 +26,7 @@
   + [Valid Anagram](https://leetcode.com/problems/valid-anagram/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Valid_Anagram.cpp)
 * __linked list__
   + [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Linked_List_Cycle.cpp)
+  + [Delete Node in a Linked List])(https://leetcode.com/problems/delete-node-in-a-linked-list/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Delete_Node_in_a_Linked_List.cpp)
 * __tree__
   + [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Binary_Tree_Inorder_Traversal.cpp)
   + [Same Tree](https://leetcode.com/problems/same-tree/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Same_Tree.cpp)
