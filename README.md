@@ -22,6 +22,7 @@
   + [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Length_of_Last_Word.c)
   + [Sqrt(x)](https://leetcode.com/problems/sqrtx/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Sqrt(x).cpp)
   + [Power of Two](https://leetcode.com/problems/power-of-two/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Power_of_Two.cpp)
+  + [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Valid_Palindrome.cpp)
 * __stack__
   + [Min Stack](https://leetcode.com/problems/min-stack/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Min_Stack.cpp)
 * __multi set__
