@@ -22,6 +22,8 @@
   + [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Length_of_Last_Word.c)
   + [Sqrt(x)](https://leetcode.com/problems/sqrtx/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Sqrt(x).cpp)
   + [Power of Two](https://leetcode.com/problems/power-of-two/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Power_of_Two.cpp)
+* __stack__
+  + [Min Stack](https://leetcode.com/problems/min-stack/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Min_Stack.cpp)
 * __multi set__
   + [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Merge_Sorted_Array.cpp)
 * __hash map__
