@@ -25,6 +25,7 @@
   + [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Valid_Palindrome.cpp)
   + [Add Digits](https://leetcode.com/problems/add-digits/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Add_Digits.cpp)
   + [Add Binary](https://leetcode.com/problems/add-binary/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Add_Binary.cpp)
+  + [Single Number](https://leetcode.com/problems/single-number/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Single_Number.cpp)
 * __stack__
   + [Min Stack](https://leetcode.com/problems/min-stack/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Min_Stack.cpp)
 * __multi set__
