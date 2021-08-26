@@ -29,6 +29,7 @@
   + [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Contains_Duplicate.cpp)
   + [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Excel_Sheet_Column_Title.cpp)
   + [Missing Number](https://leetcode.com/problems/missing-number/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Missing_Number.cpp)
+  + [Power of Three](https://leetcode.com/problems/power-of-three/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Power_of_Three.cpp)
 * __stack__
   + [Min Stack](https://leetcode.com/problems/min-stack/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Min_Stack.cpp)
 * __multi set__
