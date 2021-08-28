@@ -32,6 +32,7 @@
   + [Power of Three](https://leetcode.com/problems/power-of-three/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Power_of_Three.cpp)
   + [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Excel_Sheet_Column_Number.cpp)
   + [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) > [source](https://github.com/thankdesert/LeetCode/blob/main/easy/Largest_Odd_Number_in_String.cpp)
+  + [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Valid_Perfect_Square.cpp)
 * __stack__
   + [Min Stack](https://leetcode.com/problems/min-stack/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Min_Stack.cpp)
 * __multi set__
