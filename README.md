@@ -34,6 +34,7 @@
   + [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) > [source](https://github.com/thankdesert/LeetCode/blob/main/easy/Largest_Odd_Number_in_String.cpp)
   + [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Valid_Perfect_Square.cpp)
   + [Reverse String](https://leetcode.com/problems/reverse-string/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Reverse_String.cpp)
+  + [Ugly Number](https://leetcode.com/problems/ugly-number/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Ugly_Number.cpp)
 * __stack__
   + [Min Stack](https://leetcode.com/problems/min-stack/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Min_Stack.cpp)
 * __multi set__
