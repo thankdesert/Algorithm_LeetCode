@@ -67,6 +67,8 @@
   + [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/N-th_Tribonacci_Number.cpp)
   + [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Get_Maximum_in_Generated_Array.cpp)
   + [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Pascal's_Triangle.cpp)
+* __binary search__
+  + [First Bad Version](https://leetcode.com/problems/first-bad-version/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/First_Bad_Version.cpp)
 ### Medium
 * __naive__
   + [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Add_Two_Numbers.c)
