@@ -36,6 +36,7 @@
   + [Reverse String](https://leetcode.com/problems/reverse-string/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Reverse_String.cpp)
   + [Ugly Number](https://leetcode.com/problems/ugly-number/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Ugly_Number.cpp)
   + [Move Zeroes](https://leetcode.com/problems/move-zeroes/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Move_Zeroes.cpp)
+  + [Ransom Note](https://leetcode.com/problems/ransom-note/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Ransom_Note.cpp)
 * __stack__
   + [Min Stack](https://leetcode.com/problems/min-stack/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Min_Stack.cpp)
 * __multi set__
