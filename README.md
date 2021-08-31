@@ -71,6 +71,7 @@
   + [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Get_Maximum_in_Generated_Array.cpp)
   + [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Pascal's_Triangle.cpp)
   + [Range Addition II](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/617/week-5-august-29th-august-31st/3957/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Range_Addition_II.cpp)
+  + [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Shortest_Distance_to_a_Character.cpp)
 * __binary search__
   + [First Bad Version](https://leetcode.com/problems/first-bad-version/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/First_Bad_Version.cpp)
 ### Medium
