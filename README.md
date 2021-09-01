@@ -39,6 +39,7 @@
   + [Ransom Note](https://leetcode.com/problems/ransom-note/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Ransom_Note.cpp)
   + [Find the Difference](https://leetcode.com/problems/find-the-difference/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Find_the_Difference.cpp)
   + [Word Pattern](https://leetcode.com/problems/word-pattern/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Word_Pattern.cpp)
+  + [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/First_Unique_Character_in_a_String.cpp)
 * __stack__
   + [Min Stack](https://leetcode.com/problems/min-stack/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Min_Stack.cpp)
 * __multi set__
