@@ -40,6 +40,7 @@
   + [Find the Difference](https://leetcode.com/problems/find-the-difference/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Find_the_Difference.cpp)
   + [Word Pattern](https://leetcode.com/problems/word-pattern/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Word_Pattern.cpp)
   + [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/First_Unique_Character_in_a_String.cpp)
+  + [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Element_Appearing_More_Than_25%25_In_Sorted_Array.cpp)
 * __stack__
   + [Min Stack](https://leetcode.com/problems/min-stack/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Min_Stack.cpp)
 * __multi set__
