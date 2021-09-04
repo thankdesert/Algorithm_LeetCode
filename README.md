@@ -53,6 +53,7 @@
   + [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Delete_Node_in_a_Linked_List.cpp)
   + [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Remove_Duplicates_from_Sorted_List.cpp)
   + [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Remove_Linked_List_Elements.cpp)
+  + [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Reverse_Linked_List.cpp)
 * __tree__
   + [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Binary_Tree_Inorder_Traversal.cpp)
   + [Same Tree](https://leetcode.com/problems/same-tree/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Same_Tree.cpp)
