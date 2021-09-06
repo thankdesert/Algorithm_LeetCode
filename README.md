@@ -43,6 +43,7 @@
   + [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Element_Appearing_More_Than_25%25_In_Sorted_Array.cpp)
   + [Majority Element](https://leetcode.com/problems/majority-element/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Majority_Element.cpp)
   + [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Intersection_of_Two_Arrays.cpp)
+  + [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Longest_Palindrome.cpp)
 * __stack__
   + [Min Stack](https://leetcode.com/problems/min-stack/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Min_Stack.cpp)
 * __multi set__
