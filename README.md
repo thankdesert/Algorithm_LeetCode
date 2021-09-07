@@ -45,6 +45,7 @@
   + [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Intersection_of_Two_Arrays.cpp)
   + [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Longest_Palindrome.cpp)
   + [Reverse Bits](https://leetcode.com/problems/reverse-bits/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Reverse_Bits.cpp)
+  + [Arranging Coins](https://leetcode.com/problems/arranging-coins/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Arranging_Coins.cpp)
 * __stack__
   + [Min Stack](https://leetcode.com/problems/min-stack/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Min_Stack.cpp)
 * __multi set__
