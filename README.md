@@ -47,6 +47,7 @@
   + [Reverse Bits](https://leetcode.com/problems/reverse-bits/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Reverse_Bits.cpp)
   + [Arranging Coins](https://leetcode.com/problems/arranging-coins/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Arranging_Coins.cpp)
   + [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Peak_Index_in_a_Mountain_Array.cpp)
+  + [Height Checker](https://leetcode.com/problems/height-checker/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Height_Checker.cpp)
 * __stack__
   + [Min Stack](https://leetcode.com/problems/min-stack/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Min_Stack.cpp)
 * __multi set__
