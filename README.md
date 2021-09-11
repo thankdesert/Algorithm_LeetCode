@@ -90,6 +90,7 @@
 * __bitwise__
   + [Hamming Distance](https://leetcode.com/problems/hamming-distance/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Hamming_Distance.cpp)
   + [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/1_bit_and_2-bit_Characters.cpp)
+  + [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Number_of_1_Bits.cpp)
 ### Medium
 * __naive__
   + [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Add_Two_Numbers.c)
