@@ -89,6 +89,7 @@
   + [First Bad Version](https://leetcode.com/problems/first-bad-version/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/First_Bad_Version.cpp)
 * __bitwise__
   + [Hamming Distance](https://leetcode.com/problems/hamming-distance/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Hamming_Distance.cpp)
+  + [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/1_bit_and_2-bit_Characters.cpp)
 ### Medium
 * __naive__
   + [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Add_Two_Numbers.c)
