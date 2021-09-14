@@ -85,6 +85,7 @@
   + [Range Addition II](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/617/week-5-august-29th-august-31st/3957/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Range_Addition_II.cpp)
   + [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Shortest_Distance_to_a_Character.cpp)
   + [Keyboard Row](https://leetcode.com/problems/keyboard-row/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Keyboard_Row.cpp)
+  + [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Pascal's_Triangle_II.cpp)
 * __binary search__
   + [First Bad Version](https://leetcode.com/problems/first-bad-version/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/First_Bad_Version.cpp)
 * __bitwise__
