@@ -70,6 +70,7 @@
   + [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Binary_Tree_Preorder_Traversal.cpp)
   + [Path Sum](https://leetcode.com/problems/path-sum/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Path_Sum.cpp)
   + [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Binary_Tree_Postorder_Traversal.cpp)
+  + [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Sum_of_Left_Leaves.cpp)
 * __dynamic programming__
   + [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Maximum_Subarray.c)
   + [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Best_Time_to_Buy_and_Sell_Stock.c)
