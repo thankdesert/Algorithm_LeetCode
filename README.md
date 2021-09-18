@@ -50,6 +50,7 @@
   + [Height Checker](https://leetcode.com/problems/height-checker/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Height_Checker.cpp)
   + [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Robot_Return_to_Origin.cpp)
   + [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Defanging_an_IP_Address.cpp)
+  + [Island Perimeter](https://leetcode.com/problems/island-perimeter/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Island_Perimeter.cpp)
 * __stack__
   + [Min Stack](https://leetcode.com/problems/min-stack/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Min_Stack.cpp)
 * __multi set__
