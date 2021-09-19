@@ -106,6 +106,7 @@
   + [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/String_to_Integer_(atoi).c)
 * __dfs__
   + [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) > [Soucre](https://github.com/thankdesert/LeetCode/blob/main/medium/Letter_Combinations_of_a_Phone_Number.cpp)
+  + [Combination Sum](https://leetcode.com/problems/combination-sum/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Combination_Sum.cpp)
 * __dynamic programming__
   + [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Longest_Palindromic_Substring.cpp)
   + [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Generate_Parentheses.cpp)
