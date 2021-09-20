@@ -115,6 +115,8 @@
   + [Unique Paths](https://leetcode.com/problems/unique-paths/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Unique_Paths.cpp)
   + [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Unique_Paths_II.cpp)
   + [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Minimum_Path_Sum.cpp)
+* __two pointer technique__
+  + [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Container_With_Most_Water.cpp)
 ## Hard
 * __dynamic programming__
   + [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/hard/Regular_Expression_Matching.cpp)
