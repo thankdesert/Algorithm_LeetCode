@@ -52,6 +52,7 @@
   + [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Defanging_an_IP_Address.cpp)
   + [Island Perimeter](https://leetcode.com/problems/island-perimeter/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Island_Perimeter.cpp)
   + [Max Consecutive Ones](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge-2021/638/week-3-september-15th-september-21st/3982/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Max_Consecutive_Ones.cpp)
+  + [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Number_of_Equivalent_Domino_Pairs.cpp)
 * __stack__
   + [Min Stack](https://leetcode.com/problems/min-stack/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Min_Stack.cpp)
 * __multi set__
