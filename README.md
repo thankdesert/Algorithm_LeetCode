@@ -57,6 +57,8 @@
   + [Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Count_Square_Sum_Triples.cpp)
 * __stack__
   + [Min Stack](https://leetcode.com/problems/min-stack/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Min_Stack.cpp)
+  + [Next Greater Element I
+](https://leetcode.com/problems/next-greater-element-i/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Next_Greater_Element_I.cpp)
 * __multi set__
   + [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Merge_Sorted_Array.cpp)
 * __hash map__
