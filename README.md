@@ -98,6 +98,7 @@
   + [Keyboard Row](https://leetcode.com/problems/keyboard-row/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Keyboard_Row.cpp)
   + [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Pascal's_Triangle_II.cpp)
 * __binary search__
+  + [Binary Search](https://leetcode.com/problems/binary-search/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Binary_Search.cpp)
   + [First Bad Version](https://leetcode.com/problems/first-bad-version/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/First_Bad_Version.cpp)
   + [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Guess_Number_Higher_or_Lower.cpp)
 * __bitwise__
