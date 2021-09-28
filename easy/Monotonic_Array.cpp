@@ -4,19 +4,24 @@
 class Solution {
 public:
     bool isMonotonic(vector<int>& nums) {
-        bool desc;
+        int desc=0;
         if(1==nums.size())
             return true;
         else if(nums[nums.size()-1]>nums[0])
-            desc=true;
+            desc=0x004;
         else
-            desc=false;
-        
+            desc=0x002;
         for(int i=1;nums.size()>i;++i){
-            if(true==desc&&nums[i]<nums[i-1])
-                return false;
-            else if(false==desc&&nums[i]>nums[i-1])
-                return false;
+            if(nums[i]==nums[i-1])
+                continue;
+            switch(desc^(nums[i]>nums[i-1])){
+                case 0x005:
+                    break;
+                case 0x002:
+                    break;
+                default:
+                    return false;
+            }
         }
         return true;
     }
