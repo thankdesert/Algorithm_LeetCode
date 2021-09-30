@@ -57,6 +57,7 @@
   + [Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Count_Square_Sum_Triples.cpp)
   + [Monotonic Array](https://leetcode.com/problems/monotonic-array/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Monotonic_Array.cpp)
   + [To Lower Case](https://leetcode.com/problems/to-lower-case/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/To_Lower_Case.cpp)
+  + [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Maximum_69_Number.cpp)
 * __stack__
   + [Min Stack](https://leetcode.com/problems/min-stack/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Min_Stack.cpp)
   + [Next Greater Element I
