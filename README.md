@@ -68,6 +68,7 @@
 * __hash map__
   + [Valid Anagram](https://leetcode.com/problems/valid-anagram/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Valid_Anagram.cpp)
   + [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Build_an_Array_With_Stack_Operations.cpp)
+  + [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Maximum_Number_of_Words_You_Can_Type.cpp)
 * __linked list__
   + [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Linked_List_Cycle.cpp)
   + [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Delete_Node_in_a_Linked_List.cpp)
