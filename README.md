@@ -59,6 +59,8 @@
   + [To Lower Case](https://leetcode.com/problems/to-lower-case/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/To_Lower_Case.cpp)
   + [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Maximum_69_Number.cpp)
   + [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Reverse_Vowels_of_a_String.cpp)
+  + [Check If String Is a Prefix of Array
+](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Check_If_String_Is_a_Prefix_of_Array.cpp)
 * __stack__
   + [Min Stack](https://leetcode.com/problems/min-stack/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Min_Stack.cpp)
   + [Next Greater Element I
