@@ -66,6 +66,7 @@
   + [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Distribute_Candies_to_People.cpp)
   + [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Count_Items_Matching_a_Rule.cpp)
   + [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Complement_of_Base_10_Integer.cpp)
+  + [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Check_if_One_String_Swap_Can_Make_Strings_Equal.cpp)
 * __stack__
   + [Min Stack](https://leetcode.com/problems/min-stack/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Min_Stack.cpp)
   + [Next Greater Element I
