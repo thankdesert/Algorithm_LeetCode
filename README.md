@@ -123,6 +123,7 @@
   + [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Binary_Number_with_Alternating_Bits.cpp)
   + [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Sort_Integers_by_The_Number_of_1_Bits.cpp)
   + [Number Complement](https://leetcode.com/problems/number-complement/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Number_Complement.cpp)
+  + [Binary Gap](https://leetcode.com/problems/binary-gap/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Binary_Gap.cpp)
 ### Medium
 * __naive__
   + [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Add_Two_Numbers.c)
