@@ -156,3 +156,5 @@
 * [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) > [Query](https://github.com/thankdesert/LeetCode/blob/main/Mysql/easy/Combine_Two_Tables.mysql)
 * [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) > [Query](https://github.com/thankdesert/LeetCode/blob/main/Mysql/easy/Second_Highest_Salary.mysql)
 * [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) > [Query](https://github.com/thankdesert/LeetCode/blob/main/Mysql/easy/Employees_Earning_More_Than_Their_Managers.mysql)
+* [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Nth_Highest_Salary.mysql)
+* [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Duplicate_Emails.mysql)
