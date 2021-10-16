@@ -70,6 +70,7 @@
   + [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Find_Lucky_Integer_in_an_Array.cpp)
   + [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Reverse_Words_in_a_String%20III.cpp)
   + [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Remove_All_Adjacent_Duplicates_In_String.cpp)
+  + [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Final_Value_of_Variable_After_Performing_Operations.cpp)
 * __stack__
   + [Min Stack](https://leetcode.com/problems/min-stack/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Min_Stack.cpp)
   + [Next Greater Element I
