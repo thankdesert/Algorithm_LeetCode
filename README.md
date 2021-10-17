@@ -73,6 +73,7 @@
   + [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Final_Value_of_Variable_After_Performing_Operations.cpp)
   + [Most Common Word](https://leetcode.com/problems/most-common-word/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Most_Common_Word.cpp)
   + [Perfect Number](https://leetcode.com/problems/perfect-number/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Perfect_Number.cpp)
+  + [Sort an Array](https://leetcode.com/problems/sort-an-array/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Sort_an_Array.cpp)
 * __stack__
   + [Min Stack](https://leetcode.com/problems/min-stack/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Min_Stack.cpp)
   + [Next Greater Element I
