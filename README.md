@@ -75,6 +75,7 @@
   + [Perfect Number](https://leetcode.com/problems/perfect-number/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Perfect_Number.cpp)
   + [Sort an Array](https://leetcode.com/problems/sort-an-array/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Sort_an_Array.cpp)
   + [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Unique_Email_Addresses.cpp)
+  + [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Replace_All_%3F's_to_Avoid_Consecutive_Repeating_Characters.cpp)
 * __stack__
   + [Min Stack](https://leetcode.com/problems/min-stack/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Min_Stack.cpp)
   + [Next Greater Element I
