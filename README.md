@@ -77,6 +77,7 @@
   + [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Unique_Email_Addresses.cpp)
   + [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Replace_All_%3F's_to_Avoid_Consecutive_Repeating_Characters.cpp)
   + [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Number_of_Strings_That_Appear_as_Substrings_in_Word.cpp)
+  + [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Maximum_Number_of_Balls_in_a_Box.cpp)
 * __stack__
   + [Min Stack](https://leetcode.com/problems/min-stack/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Min_Stack.cpp)
   + [Next Greater Element I
