@@ -79,6 +79,7 @@
   + [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Number_of_Strings_That_Appear_as_Substrings_in_Word.cpp)
   + [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Maximum_Number_of_Balls_in_a_Box.cpp)
   + [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Implement_Stack_using_Queues.cpp)
+  + [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Find_Numbers_with_Even_Number_of_Digits.cpp)
 * __stack__
   + [Min Stack](https://leetcode.com/problems/min-stack/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Min_Stack.cpp)
   + [Next Greater Element I
