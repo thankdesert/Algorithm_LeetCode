@@ -171,3 +171,9 @@
 * [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) > [Query](https://github.com/thankdesert/LeetCode/blob/main/Mysql/easy/Employees_Earning_More_Than_Their_Managers.mysql)
 * [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Nth_Highest_Salary.mysql)
 * [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Duplicate_Emails.mysql)
+* [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Delete_Duplicate_Emails.mysql)
+* [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Customers_Who_Never_Order.mysql)
+
+### Medium
+* [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/medium/Consecutive_Numbers.mysql)
+* [Rank Scores](https://leetcode.com/problems/rank-scores/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/medium/Rank_Scores.mysql)
