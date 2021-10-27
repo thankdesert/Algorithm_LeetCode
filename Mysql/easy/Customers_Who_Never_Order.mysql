@@ -1,0 +1,15 @@
+###from : https://leetcode.com/problems/customers-who-never-order/
+
+
+# Write your MySQL query statement below
+/*
+SELECT Customers.name AS Customers
+FROM Customers LEFT JOIN Orders
+ON Customers.id=Orders.customerId
+WHERE Orders.id IS NULL;
+*/
+
+SELECT Customers.name AS Customers
+FROM Orders RIGHT JOIN Customers
+ON Orders.customerId=Customers.id
+WHERE Orders.id IS NULL;
