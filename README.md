@@ -83,6 +83,7 @@
   + [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Shuffle_the_Array.cpp)
   + [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Check_If_All_1's_Are_at_Least_Length_K_Places_Away.cpp)
   + [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Reverse_String_II.cpp)
+  + [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Running_Sum_of_1d_Array.cpp)
 * __stack__
   + [Min Stack](https://leetcode.com/problems/min-stack/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Min_Stack.cpp)
   + [Next Greater Element I
