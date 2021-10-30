@@ -1,0 +1,18 @@
+#from : https://leetcode.com/problems/rising-temperature/
+
+
+# Write your MySQL query statement below
+
+/*
+SELECT id
+FROM Weather AS A
+WHERE A.temperature>(
+    SELECT temperature
+    FROM Weather AS B
+    WHERE DATEDIFF(A.recordDate,B.recordDate)=1);
+*/
+
+
+SELECT t.Id FROM Weather AS t, Weather AS y
+WHERE DATEDIFF(t.RecordDate, y.RecordDate) = 1 AND t.Temperature > y.Temperature;
+
