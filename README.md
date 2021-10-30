@@ -177,6 +177,8 @@
 * [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Duplicate_Emails.mysql)
 * [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Delete_Duplicate_Emails.mysql)
 * [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Customers_Who_Never_Order.mysql)
+* [Big Countries](https://leetcode.com/problems/big-countries/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Big_Countries.mysql)
+* [Rising Temperature](https://leetcode.com/problems/rising-temperature/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Rising_Temperature.mysql)
 
 ### Medium
 * [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/medium/Consecutive_Numbers.mysql)
