@@ -179,7 +179,8 @@
 * [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Customers_Who_Never_Order.mysql)
 * [Big Countries](https://leetcode.com/problems/big-countries/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Big_Countries.mysql)
 * [Rising Temperature](https://leetcode.com/problems/rising-temperature/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Rising_Temperature.mysql)
+* [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Classes_More_Than_5_Students.mysql)
 
 ### Medium
 * [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/medium/Consecutive_Numbers.mysql)
-* [Rank Scores](https://leetcode.com/problems/rank-scores/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/medium/Rank_Scores.mysql)
+* [Rank Scores](https://leetcode.com/problems/rank-scores/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/medium/Rank_Scores.mysql)
