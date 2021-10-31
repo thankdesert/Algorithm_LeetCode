@@ -180,6 +180,7 @@
 * [Big Countries](https://leetcode.com/problems/big-countries/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Big_Countries.mysql)
 * [Rising Temperature](https://leetcode.com/problems/rising-temperature/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Rising_Temperature.mysql)
 * [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Classes_More_Than_5_Students.mysql)
+* [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Not_Boring_Movies.mysql)
 
 ### Medium
 * [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/medium/Consecutive_Numbers.mysql)
