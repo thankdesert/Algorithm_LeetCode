@@ -1,0 +1,9 @@
+#from : https://leetcode.com/problems/not-boring-movies/
+
+
+
+# Write your MySQL query statement below
+SELECT *
+FROM Cinema
+WHERE "boring"!=description AND 1=MOD(id,2)
+ORDER BY rating DESC;
