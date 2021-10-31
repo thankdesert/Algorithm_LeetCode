@@ -1,0 +1,30 @@
+#from : https://leetcode.com/problems/department-highest-salary/
+
+
+# Write your MySQL query statement below
+/*
+SELECT dp.name AS Department, em.name AS Employee, em.salary As Salary
+FROM Employee AS em
+    INNER JOIN(
+        SELECT departmentId, Max(salary) AS max_salary
+        FROM Employee
+        GROUP BY departmentId
+        ) AS tmp ON em.departmentId=tmp.departmentID
+                    AND em.salary=tmp.max_salary
+    INNER JOIN Department AS dp ON em.departmentId=dp.id;
+*/
+
+#formatted by https://www.dpriver.com/pp/sqlformat.htm
+SELECT dp.NAME   AS Department,
+       em.NAME   AS Employee,
+       em.salary AS Salary
+FROM   employee AS em
+       INNER JOIN(SELECT departmentid,
+                         Max(salary) AS max_salary
+                  FROM   employee
+                  GROUP  BY departmentid) AS tmp
+               ON em.departmentid = tmp.departmentid
+                  AND em.salary = tmp.max_salary
+       INNER JOIN department AS dp
+               ON em.departmentid = dp.id 
+
