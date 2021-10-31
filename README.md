@@ -182,6 +182,7 @@
 * [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Classes_More_Than_5_Students.mysql)
 * [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Not_Boring_Movies.mysql)
 * [Swap Salary](https://leetcode.com/problems/swap-salary/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Swap_Salary.mysql)
+* [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Reformat_Department_Table.mysql)
 ### Medium
 * [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/medium/Consecutive_Numbers.mysql)
 * [Rank Scores](https://leetcode.com/problems/rank-scores/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/medium/Rank_Scores.mysql)
