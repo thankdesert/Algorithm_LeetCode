@@ -1,0 +1,9 @@
+#from : https://leetcode.com/problems/exchange-seats/
+
+
+# Write your MySQL query statement below
+SELECT IF(1=cnt%2 AND cnt=id, id, IF(1=id%2, id+1, id-1)) AS id, student
+FROM Seat, 
+    (SELECT COUNT(*) AS cnt
+     FROM seat) AS t
+ORDER BY id;
