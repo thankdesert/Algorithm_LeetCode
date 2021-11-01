@@ -188,3 +188,4 @@
 * [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/medium/Consecutive_Numbers.mysql)
 * [Rank Scores](https://leetcode.com/problems/rank-scores/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/medium/Rank_Scores.mysql)
 * [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/medium/Department_Highest_Salary.mysql)
+* [Exchange Seats](https://leetcode.com/problems/exchange-seats/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/medium/Exchange_Seats.mysql)
