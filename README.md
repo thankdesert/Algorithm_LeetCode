@@ -89,6 +89,7 @@
   + [Three Divisors](https://leetcode.com/problems/three-divisors/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Three_Divisors.cpp)
   + [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Two_Sum_II_-_Input_Array_Is_Sorted.cpp)
   + [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Maximum_Average_Subarray_I.cpp)
+  + [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Reverse_Prefix_of_Word.cpp)
 * __stack__
   + [Min Stack](https://leetcode.com/problems/min-stack/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Min_Stack.cpp)
   + [Next Greater Element I
