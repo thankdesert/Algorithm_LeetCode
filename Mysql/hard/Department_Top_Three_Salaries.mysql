@@ -1,0 +1,14 @@
+#from : https://leetcode.com/problems/department-top-three-salaries/
+
+
+# Write your MySQL query statement below
+SELECT B.name AS "Department",
+A.name AS "Employee",
+A.salary AS "Salary"
+FROM employee A,department B
+WHERE(
+    SELECT COUNT(DISTINCT salary)
+    FROM employee
+    WHERE salary>A.salary AND DepartmentId=B.id
+)<3 AND A.departmentId=B.id
+ORDER BY B.id,A.salary DESC;
