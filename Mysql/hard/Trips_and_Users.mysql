@@ -1,0 +1,12 @@
+#from : https://leetcode.com/problems/trips-and-users/
+
+
+# Write your MySQL query statement below
+    
+SELECT t.Request_at as Day, ROUND(SUM(CASE WHEN t.Status != 'completed' THEN 1 ELSE 0 END)/COUNT(*),2)
+AS 'Cancellation Rate'
+FROM Trips t
+WHERE t.Client_Id IN (SELECT Users_Id FROM Users WHERE Banned ='No')
+AND t.Driver_Id IN (SELECT Users_Id FROM Users WHERE Banned = 'No')
+AND t.Request_at BETWEEN '2013-10-01' AND '2013-10-03'
+GROUP BY t.Request_at;
