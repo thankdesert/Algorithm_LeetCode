@@ -198,3 +198,4 @@
 * [Exchange Seats](https://leetcode.com/problems/exchange-seats/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/medium/Exchange_Seats.mysql)
 ### Hard
 * [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/hard/Department_Top_Three_Salaries.mysql)
+* [Trips and Users](https://leetcode.com/problems/trips-and-users/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/hard/Trips_and_Users.mysql)
