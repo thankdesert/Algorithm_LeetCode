@@ -1,0 +1,14 @@
+# Write your MySQL query statement below
+SELECT *
+FROM stadium
+WHERE 100<=people AND((
+    id+1=ANY(SELECT id FROM stadium WHERE 100<=people) AND
+    id+2=ANY(SELECT id FROM stadium WHERE 100<=people))
+OR(
+    id-1=ANY(SELECT id FROM stadium WHERE 100<=people) AND
+    id+1=ANY(SELECT id FROM stadium WHERE 100<=people)
+)
+OR(  
+    id-1=ANY(SELECT id FROM stadium WHERE 100<=people) AND
+    id-2=ANY(SELECT id FROM stadium WHERE 100<=people)
+))
