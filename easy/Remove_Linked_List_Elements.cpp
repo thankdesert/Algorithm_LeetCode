@@ -27,3 +27,25 @@ public:
         return head;
     }
 };
+
+/*
+class Solution {
+public:
+    ListNode* removeElements(ListNode* head, int val) {
+        while(NULL!=head&&val==head->val)
+            head=head->next;
+        if(NULL==head)
+            return NULL;
+        ListNode* cur=head;
+        while(NULL!=cur->next){
+            if(val==cur->next->val){
+                cur->next=cur->next->next;
+                continue;
+            }
+            cur=cur->next;
+        }
+        
+        return head;
+    }
+};
+*/
