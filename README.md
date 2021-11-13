@@ -94,6 +94,7 @@
   + [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Kth_Distinct_String_in_an_Array.cpp)
   + [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Third_Maximum_Number.cpp)
   + [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Determine_if_String_Halves_Are_Alike.cpp)
+  + [Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Minimum_Moves_to_Convert_String.cpp)
 * __stack__
   + [Min Stack](https://leetcode.com/problems/min-stack/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Min_Stack.cpp)
   + [Next Greater Element I
