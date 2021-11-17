@@ -97,6 +97,7 @@
   + [Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Minimum_Moves_to_Convert_String.cpp)
   + [Make The String Great](https://leetcode.com/problems/make-the-string-great/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Make_The_String_Great.cpp)
   + [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Decode_XORed_Array.cpp)
+  + [Reformat Date](https://leetcode.com/problems/reformat-date/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Reformat_Date.cpp)
 * __stack__
   + [Min Stack](https://leetcode.com/problems/min-stack/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Min_Stack.cpp)
   + [Next Greater Element I
