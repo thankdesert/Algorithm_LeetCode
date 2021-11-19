@@ -1,6 +1,6 @@
 # SH's Sources
 > This is the space for source codes using to solve a problems from the [LeetCode](https://leetcode.com/).</br>
-> mainly be used : __C/C++__, Mysql
+> mainly be used : __C/C++__, Mysql</br>
 > If you want to exercise MySql on actual data sets, [it](https://www.w3resource.com/sql-exercises/) will be great for you!
 
 ![4411](https://user-images.githubusercontent.com/46125548/125159966-81ec2880-e1b5-11eb-8463-5e3bcfb711e8.jpg)
