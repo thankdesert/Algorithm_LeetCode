@@ -100,6 +100,7 @@
   + [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Decode_XORed_Array.cpp)
   + [Reformat Date](https://leetcode.com/problems/reformat-date/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Reformat_Date.cpp)
   + [Detect Capital](https://leetcode.com/problems/detect-capital/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Detect_Capital.cpp)
+  + [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Redistribute_Characters_to_Make_All_Strings_Equal.cpp)
 * __stack__
   + [Min Stack](https://leetcode.com/problems/min-stack/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Min_Stack.cpp)
   + [Next Greater Element I
