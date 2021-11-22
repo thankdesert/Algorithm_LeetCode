@@ -132,6 +132,7 @@
   + [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Minimum_Absolute_Difference_in_BST.cpp)
   + [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Two_Sum_IV_-_Input_is_a_BST.cpp)
   + [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Second_Minimum_Node_In_a_Binary_Tree.cpp)
+  + [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Maximum_Product_Difference_Between_Two_Pairs.cpp)
 * __dynamic programming__
   + [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Maximum_Subarray.c)
   + [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Best_Time_to_Buy_and_Sell_Stock.c)
