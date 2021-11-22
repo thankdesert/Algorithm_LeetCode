@@ -102,6 +102,7 @@
   + [Detect Capital](https://leetcode.com/problems/detect-capital/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Detect_Capital.cpp)
   + [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Redistribute_Characters_to_Make_All_Strings_Equal.cpp)
   + [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Remove_Outermost_Parentheses.cpp)
+  + [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Teemo_Attacking.cpp)
 * __stack__
   + [Min Stack](https://leetcode.com/problems/min-stack/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Min_Stack.cpp)
   + [Next Greater Element I
