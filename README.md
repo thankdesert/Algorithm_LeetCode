@@ -103,10 +103,10 @@
   + [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Redistribute_Characters_to_Make_All_Strings_Equal.cpp)
   + [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Remove_Outermost_Parentheses.cpp)
   + [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Teemo_Attacking.cpp)
+  + [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Three_Consecutive_Odds.cpp)
 * __stack__
   + [Min Stack](https://leetcode.com/problems/min-stack/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Min_Stack.cpp)
-  + [Next Greater Element I
-](https://leetcode.com/problems/next-greater-element-i/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Next_Greater_Element_I.cpp)
+  + [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Next_Greater_Element_I.cpp)
 * __multi set__
   + [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Merge_Sorted_Array.cpp)
 * __hash map__
