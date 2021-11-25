@@ -104,6 +104,7 @@
   + [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Remove_Outermost_Parentheses.cpp)
   + [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Teemo_Attacking.cpp)
   + [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Three_Consecutive_Odds.cpp)
+  + [Self Dividing Numbers](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Self_Dividing_Numbers.cpp) > [Source](https://leetcode.com/problems/self-dividing-numbers/)
 * __stack__
   + [Min Stack](https://leetcode.com/problems/min-stack/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Min_Stack.cpp)
   + [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Next_Greater_Element_I.cpp)
