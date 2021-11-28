@@ -107,6 +107,8 @@
   + [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Self_Dividing_Numbers.cpp)
   + [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Repeated_Substring_Pattern.cpp)
   + [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Determine_Color_of_a_Chessboard_Square.cpp)
+* __<time.h>__
+  + [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Number_of_Days_Between_Two_Dates.cpp)
 * __stack__
   + [Min Stack](https://leetcode.com/problems/min-stack/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Min_Stack.cpp)
   + [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Next_Greater_Element_I.cpp)
