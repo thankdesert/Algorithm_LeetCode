@@ -17,24 +17,24 @@ public:
         struct tm cur_stime;
         struct tm prev_stime;
         
-        cur_stime.tm_year = cur_year - 1900;
-        cur_stime.tm_mon = cur_month - 1;
-        cur_stime.tm_mday = cur_date;
-        cur_stime.tm_hour = 0;
-        cur_stime.tm_min = 0;
-        cur_stime.tm_sec = 0;
-        cur_stime.tm_isdst = 0;
-        prev_stime.tm_year = prev_year - 1900;
-        prev_stime.tm_mon = prev_month - 1;
-        prev_stime.tm_mday = prev_date;
-        prev_stime.tm_hour = 0;
-        prev_stime.tm_min = 0;
-        prev_stime.tm_sec = 0;
-        prev_stime.tm_isdst = 0;
+        cur_stime.tm_year=cur_year-1900;
+        cur_stime.tm_mon=cur_month-1;
+        cur_stime.tm_mday=cur_date;
+        cur_stime.tm_hour=0;
+        cur_stime.tm_min=0;
+        cur_stime.tm_sec=0;
+        cur_stime.tm_isdst=0;
+        prev_stime.tm_year=prev_year-1900;
+        prev_stime.tm_mon=prev_month-1;
+        prev_stime.tm_mday=prev_date;
+        prev_stime.tm_hour=0;
+        prev_stime.tm_min=0;
+        prev_stime.tm_sec=0;
+        prev_stime.tm_isdst=0;
         
-        start = mktime(&prev_stime);
-        end = mktime(&cur_stime);
+        start=mktime(&prev_stime);
+        end=mktime(&cur_stime);
         double diff=difftime(end,start)/(60*60*24);
-        return diff<0?diff*(-1):diff;
+        return 0>diff?diff*(-1):diff;
     }
 };
