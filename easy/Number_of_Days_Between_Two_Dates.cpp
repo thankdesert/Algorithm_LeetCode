@@ -1,7 +1,8 @@
-class Solution {
 //from : https://leetcode.com/problems/number-of-days-between-two-dates/
 
 
+
+class Solution {
 public:
     int daysBetweenDates(string date1, string date2) {
         int cur_year,cur_month,cur_date,prev_year,prev_month,prev_date;
