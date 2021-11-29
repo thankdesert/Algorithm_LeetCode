@@ -107,6 +107,7 @@
   + [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Self_Dividing_Numbers.cpp)
   + [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Repeated_Substring_Pattern.cpp)
   + [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Determine_Color_of_a_Chessboard_Square.cpp)
+  + [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Find_the_Highest_Altitude.cpp)
 * __<time.h>__
   + [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Number_of_Days_Between_Two_Dates.cpp)
 * __stack__
