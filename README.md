@@ -110,6 +110,7 @@
   + [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Find_the_Highest_Altitude.cpp)
   + [Destination City](https://leetcode.com/problems/destination-city/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Destination_City.cpp)
   + [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Count_Negative_Numbers_in_a_Sorted_Matrix.cpp)
+  + [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Check_If_N_and_Its_Double_Exist.cpp)
 * __<time.h>__
   + [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Number_of_Days_Between_Two_Dates.cpp)
 * __stack__
