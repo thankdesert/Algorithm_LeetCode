@@ -113,6 +113,7 @@
   + [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Check_If_N_and_Its_Double_Exist.cpp)
   + [Relative Ranks](https://leetcode.com/problems/relative-ranks/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Relative_Ranks.cpp)
   + [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/N-ary_Tree_Postorder_Traversal.cpp)
+  + [Power of Four](https://leetcode.com/problems/power-of-four/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Power_of_Four.cpp)
 * __<time.h>__
   + [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Number_of_Days_Between_Two_Dates.cpp)
 * __stack__
