@@ -3,7 +3,6 @@
 > mainly be used : __C/C++__, Mysql</br>
 > If you want to exercise MySql on actual data sets, [this website](https://www.w3resource.com/sql-exercises/) will be great for you!
 
-![4411](https://user-images.githubusercontent.com/46125548/125159966-81ec2880-e1b5-11eb-8463-5e3bcfb711e8.jpg)
 
 
 ## C / C++
