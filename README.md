@@ -114,6 +114,7 @@
   + [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/N-ary_Tree_Postorder_Traversal.cpp)
   + [Power of Four](https://leetcode.com/problems/power-of-four/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Power_of_Four.cpp)
   + [Find Center of Star Graph](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Find_Center_of_Star_Graph.cpp) > [Source](https://leetcode.com/problems/find-center-of-star-graph/)
+  + [Sorting the Sentence](from : https://leetcode.com/problems/sorting-the-sentence/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Sorting_the_Sentence.cpp)
 * __<time.h>__
   + [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Number_of_Days_Between_Two_Dates.cpp)
 * __stack__
