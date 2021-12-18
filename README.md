@@ -115,6 +115,7 @@
   + [Power of Four](https://leetcode.com/problems/power-of-four/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Power_of_Four.cpp)
   + [Find Center of Star Graph](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Find_Center_of_Star_Graph.cpp) > [Source](https://leetcode.com/problems/find-center-of-star-graph/)
   + [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Sorting_the_Sentence.cpp)
+  + [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Number_of_Students_Doing_Homework_at_a_Given_Time.cpp)
 * __<time.h>__
   + [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Number_of_Days_Between_Two_Dates.cpp)
 * __stack__
