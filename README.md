@@ -118,6 +118,7 @@
   + [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Number_of_Students_Doing_Homework_at_a_Given_Time.cpp)
   + [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Sort_Array_by_Increasing_Frequency.cpp)
   + [Reformat The String](https://leetcode.com/problems/reformat-the-string/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Reformat_The_String.cpp)
+  + [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Sum_of_Digits_in_Base_K.cpp)
 * __<time.h>__
   + [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Number_of_Days_Between_Two_Dates.cpp)
 * __stack__
