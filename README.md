@@ -121,6 +121,8 @@
   + [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Sum_of_Digits_in_Base_K.cpp)
   + [Water Bottles](https://leetcode.com/problems/water-bottles/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Water_Bottles.cpp)
   + [Goat Latin](https://leetcode.com/problems/goat-latin/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Goat_Latin.cpp)
+  + [Check if the Sentence Is Pangram
+](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Check_if_the%20Sentence_Is_Pangram.cpp)
 * __<time.h>__
   + [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Number_of_Days_Between_Two_Dates.cpp)
 * __stack__
