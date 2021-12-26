@@ -125,6 +125,7 @@
 ](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Check_if_the%20Sentence_Is_Pangram.cpp)
   + [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Jewels_and_Stones.cpp)
   + [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Find_Greatest_Common_Divisor_of_Array.cpp)
+  + [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Count_Number_of_Pairs_With_Absolute_Difference_K.cpp)
 * __<time.h>__
   + [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Number_of_Days_Between_Two_Dates.cpp)
 * __stack__
