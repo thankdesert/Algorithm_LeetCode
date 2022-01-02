@@ -213,6 +213,8 @@
   + [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Minimum_Path_Sum.cpp)
 * __two pointer technique__
   + [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Container_With_Most_Water.cpp)
+* __0-1 knapsack problem(dynamic programming)__
+  + [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/medium/Partition_Equal_Subset_Sum.cpp)
 ## Hard
 * __dynamic programming__
   + [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/hard/Regular_Expression_Matching.cpp)
