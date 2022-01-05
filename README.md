@@ -129,6 +129,7 @@
   + [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Minimum_Number_of_Moves_to_Seat_Everyone.cpp)
   + [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Number_of_Good_Pairs.cpp)
   + [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Reverse_Only_Letters.CPP)
+  + [Minimum Time to Type Word Using Special Typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Minimum_Time_to_Type_Word_Using_Special_Typewriter.cpp)
 * __<time.h>__
   + [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Number_of_Days_Between_Two_Dates.cpp)
 * __stack__
