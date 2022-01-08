@@ -1,5 +1,4 @@
 //from : https://leetcode.com/problems/find-mode-in-binary-search-tree/
-https://leetcode.com/problems/find-mode-in-binary-search-tree/
 
 /**
  * Definition for a binary tree node.
