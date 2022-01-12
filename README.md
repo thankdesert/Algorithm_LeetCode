@@ -135,6 +135,7 @@
   + [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Find_Mode_in_Binary_Search_Tree.cpp)
   + [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Flipping_an_Image.cpp)
   + [Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Check_if_All_the_Integers_in_a_Range_Are_Covered.cpp)
+  + [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Maximum_Number%20of_Words_Found_in_Sentences.cpp)
 * __<time.h>__
   + [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Number_of_Days_Between_Two_Dates.cpp)
 * __stack__
