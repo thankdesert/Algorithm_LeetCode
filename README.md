@@ -142,7 +142,6 @@
   + [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Check_if_All_Characters_Have_Equal_Number_of_Occurrences.cpp)
   + [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Squares_of_a_Sorted_Array.cpp)
   + [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Richest_Customer_Wealth.cpp)
-  + [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Minimum_Distance_Between_BST_Nodes.cpp)
 * __<time.h>__
   + [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Number_of_Days_Between_Two_Dates.cpp)
 * __stack__
@@ -175,6 +174,7 @@
   + [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Two_Sum_IV_-_Input_is_a_BST.cpp)
   + [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Second_Minimum_Node_In_a_Binary_Tree.cpp)
   + [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Maximum_Product_Difference_Between_Two_Pairs.cpp)
+  + [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Minimum_Distance_Between_BST_Nodes.cpp)
 * __dynamic programming__
   + [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Maximum_Subarray.c)
   + [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Best_Time_to_Buy_and_Sell_Stock.c)
