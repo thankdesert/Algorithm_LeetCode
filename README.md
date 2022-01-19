@@ -142,6 +142,7 @@
   + [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Check_if_All_Characters_Have_Equal_Number_of_Occurrences.cpp)
   + [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Squares_of_a_Sorted_Array.cpp)
   + [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Richest_Customer_Wealth.cpp)
+  + [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Minimum_Distance_Between_BST_Nodes.cpp)
 * __<time.h>__
   + [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Number_of_Days_Between_Two_Dates.cpp)
 * __stack__
