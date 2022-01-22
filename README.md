@@ -144,6 +144,7 @@
   + [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Richest_Customer_Wealth.cpp)
   + [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Number_of_Segments_in_a_String.cpp)
   + [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/License_Key_Formatting.cpp)
+  + [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Unique_Morse_Code_Words.cpp)
 * __<time.h>__
   + [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Number_of_Days_Between_Two_Dates.cpp)
 * __stack__
