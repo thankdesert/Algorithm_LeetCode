@@ -147,6 +147,7 @@
   + [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Unique_Morse_Code_Words.cpp)
   + [Rotate String](https://leetcode.com/problems/rotate-string/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Rotate_String.cpp)
   + [Shuffle String](https://leetcode.com/problems/shuffle-string/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Shuffle_String.cpp)
+  + [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Long_Pressed_Name.cpp)
 * __<time.h>__
   + [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Number_of_Days_Between_Two_Dates.cpp)
 * __stack__
