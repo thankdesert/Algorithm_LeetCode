@@ -149,6 +149,7 @@
   + [Shuffle String](https://leetcode.com/problems/shuffle-string/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Shuffle_String.cpp)
   + [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Long_Pressed_Name.cpp)
   + [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Maximum_Nesting_Depth_of_the_Parentheses.cpp)
+  + [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Split_a_String_in_Balanced_Strings.cpp)
 * __<time.h>__
   + [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Number_of_Days_Between_Two_Dates.cpp)
 * __stack__
