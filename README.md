@@ -152,6 +152,7 @@
   + [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Split_a_String_in_Balanced_Strings.cpp)
   + [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Replace_All_Digits_with_Characters.cpp)
   + [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Student_Attendance_Record_I.cpp)
+  + [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Count_the_Number_of_Consistent_Strings.cpp)
 * __<time.h>__
   + [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Number_of_Days_Between_Two_Dates.cpp)
 * __stack__
