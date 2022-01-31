@@ -153,6 +153,7 @@
   + [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Replace_All_Digits_with_Characters.cpp)
   + [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Student_Attendance_Record_I.cpp)
   + [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Count_the_Number_of_Consistent_Strings.cpp)
+  + [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Decrypt_String_from_Alphabet_to_Integer_Mapping.cpp)
 * __<time.h>__
   + [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Number_of_Days_Between_Two_Dates.cpp)
 * __stack__
