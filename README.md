@@ -155,6 +155,7 @@
   + [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Count_the_Number_of_Consistent_Strings.cpp)
   + [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Decrypt_String_from_Alphabet_to_Integer_Mapping.cpp)
   + [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Generate_a_String_With_Characters_That_Have_Odd_Counts.cpp)
+  + [Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Rearrange_Spaces_Between_Words.cpp)
 * __<time.h>__
   + [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Number_of_Days_Between_Two_Dates.cpp)
 * __stack__
