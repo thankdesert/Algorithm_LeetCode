@@ -160,6 +160,7 @@
   + [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Largest_Substring_Between%20Two_Equal_Characters.cpp)
   + [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Longer_Contiguous_Segments_of_Ones_than_Zeros.cpp)
   + [Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Divide_a_String_Into_Groups_of_Size_k.cpp)
+  + [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Reformat_Phone_Number.cpp)
 * __<time.h>__
   + [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Number_of_Days_Between_Two_Dates.cpp)
 * __stack__
