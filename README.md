@@ -162,6 +162,7 @@
   + [Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Divide_a_String_Into_Groups_of_Size_k.cpp)
   + [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Reformat_Phone_Number.cpp)
   + [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Count_Common_Words_With_One_Occurrence.cpp)
+  + [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Find_First_Palindromic_String_in_the_Array.cpp)
 * __<time.h>__
   + [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Number_of_Days_Between_Two_Dates.cpp)
 * __stack__
