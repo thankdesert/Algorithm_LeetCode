@@ -164,6 +164,7 @@
   + [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Count_Common_Words_With_One_Occurrence.cpp)
   + [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Find_First_Palindromic_String_in_the_Array.cpp)
   + [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Check_If_Two_String_Arrays_are_Equivalent.cpp)
+  + [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Range_Sum_Query_-_Immutable.cpp)
 * __<time.h>__
   + [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Number_of_Days_Between_Two_Dates.cpp)
 * __stack__
