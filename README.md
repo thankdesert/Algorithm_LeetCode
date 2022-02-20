@@ -168,6 +168,7 @@
   + [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Sum_of_Unique_Elements.cpp)
   + [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Reshape_the_Matrix.cpp)
   + [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Find_Words_That_Can_Be_Formed_by_Characters.cpp)
+  + [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Univalued_Binary_Tree.cpp)
 * __<time.h>__
   + [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Number_of_Days_Between_Two_Dates.cpp)
 * __stack__
