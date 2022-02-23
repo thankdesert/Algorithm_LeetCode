@@ -203,6 +203,7 @@
   + [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Maximum_Product_Difference_Between_Two_Pairs.cpp)
   + [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Minimum_Distance_Between_BST_Nodes.cpp)
   + [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Invert_Binary_Tree.cpp)
+  + [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Binary_Tree_Paths.cpp)
 * __dynamic programming__
   + [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Maximum_Subarray.c)
   + [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Best_Time_to_Buy_and_Sell_Stock.c)
