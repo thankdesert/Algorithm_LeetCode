@@ -208,6 +208,7 @@
   + [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Binary_Tree_Paths.cpp)
   + [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Increasing_Order_Search_Tree.cpp)
   + [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Range_Sum_of_BST.cpp)
+  + [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/tree/main/easy)
 * __dynamic programming__
   + [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Maximum_Subarray.c)
   + [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Best_Time_to_Buy_and_Sell_Stock.c)
