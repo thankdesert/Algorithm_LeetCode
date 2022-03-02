@@ -169,6 +169,7 @@
   + [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Reshape_the_Matrix.cpp)
   + [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Find_Words_That_Can_Be_Formed_by_Characters.cpp)
   + [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Univalued_Binary_Tree.cpp)
+  + [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Truncate_Sentence.cpp)
 * __Graph__
   + [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Find_if_Path_Exists_in_Graph.cpp)
 * __<time.h>__
