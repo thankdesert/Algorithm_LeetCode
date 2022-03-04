@@ -13,6 +13,24 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+/*
+class Solution {
+public:
+    void dfs(TreeNode* root,int* depth,int cur_depth){
+        if(NULL==root)
+            return;
+        if(*depth<cur_depth)
+            *depth=cur_depth;
+        dfs(root->left,depth,cur_depth+1);
+        dfs(root->right,depth,cur_depth+1);
+    }
+    int maxDepth(TreeNode* root) {
+        int depth=0;
+        dfs(root,&depth,1);
+        return depth;
+    }
+};
+*/
 class Solution {
     int max_depth = 0;
     void helper(TreeNode* root, int degree) {
