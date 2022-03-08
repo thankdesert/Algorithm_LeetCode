@@ -9,7 +9,7 @@ public:
         int min=0,max=s.size();
         s[0]=='I'?answer[0]=min++:answer[0]=max--;
         for(int i=1;answer.size()>i;++i){
-            if('I'==s[i])
+            if(s.size()>i&&'I'==s[i])
                 answer[i]=min++;
             else
                 answer[i]=max--;
