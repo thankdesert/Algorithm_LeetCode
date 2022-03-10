@@ -218,6 +218,7 @@
   + [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Cousins_in_Binary_Tree.cpp)
   + [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/tree/main/easy)
   + [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/N-ary_Tree_Preorder_Traversal.cpp)
+  + [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Maximum_Depth_of_N-ary_Tree.cpp)
 * __dynamic programming__
   + [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Maximum_Subarray.c)
   + [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Best_Time_to_Buy_and_Sell_Stock.c)
