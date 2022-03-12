@@ -174,6 +174,7 @@
   + [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence.cpp)
   + [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Sort_Array_By_Parity.cpp)
   + [DI String Match](https://leetcode.com/problems/di-string-match/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/DI_String_Match.cpp)
+  + [Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Check_if_Numbers_Are_Ascending_in_a_Sentence.cpp)
 * __Graph__
   + [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Find_if_Path_Exists_in_Graph.cpp)
 * __<time.h>__
