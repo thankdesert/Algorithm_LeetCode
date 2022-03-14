@@ -176,7 +176,7 @@
   + [DI String Match](https://leetcode.com/problems/di-string-match/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/DI_String_Match.cpp)
   + [Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Check_if_Numbers_Are_Ascending_in_a_Sentence.cpp)
   + [Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Number_of_Different_Integers_in_a_String.cpp)
-  + (Crawler Log Folder)[https://leetcode.com/problems/crawler-log-folder/] > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Crawler_Log_Folder.cpp)
+  + [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Crawler_Log_Folder.cpp)
 * __Graph__
   + [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Find_if_Path_Exists_in_Graph.cpp)
 * __<time.h>__
