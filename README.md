@@ -183,6 +183,7 @@
   + [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Cells_in_a_Range_on_an_Excel_Sheet.cpp)
   + [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/String_Matching_in_an_Array.cpp)
   + [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Counting_Words_With_a_Given_Prefix.cpp)
+  + [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Check_if_All_A's_Appears_Before_All_B's.cpp)
 * __Graph__
   + [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Find_if_Path_Exists_in_Graph.cpp)
 * __<time.h>__
