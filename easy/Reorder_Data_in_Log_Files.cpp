@@ -26,7 +26,8 @@ bool compare(string a,string b){
                 break;
             }
             return a<b;
-        }
+}
+
 class Solution {
 public:
     vector<string> reorderLogFiles(vector<string>& logs) {        
