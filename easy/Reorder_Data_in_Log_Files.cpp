@@ -11,19 +11,15 @@ bool compare(string a,string b){
         switch(l){
             case 0b000:
                 return false;
-                break;
             case 0b001:
                 return true;
-                break;
             case 0b010:
                 return false;
-                break;
             case 0b011:
             if(a.substr(tmp_a)!=b.substr(tmp_b))
                 return a.substr(tmp_a)<=b.substr(tmp_b);
             else
                 return a.substr(0,tmp_a-1)<b.substr(0,tmp_b-1);
-                break;
             }
             return a<b;
 }
