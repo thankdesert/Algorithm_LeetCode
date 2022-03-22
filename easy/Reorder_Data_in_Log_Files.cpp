@@ -2,32 +2,30 @@
 
 
 
-bool compare(string a,string b){
-    int l=0b000,tmp_a=a.find(" ")+1,tmp_b=b.find(" ")+1;
-    if(isalpha(a[tmp_a]))
-        l^=0b001;
-    if(isalpha(b[tmp_b]))
-        l^=0b010;
-        switch(l){
-            case 0b000:
-                return false;
-            case 0b001:
-                return true;
-            case 0b010:
-                return false;
-            case 0b011:
-            if(a.substr(tmp_a)!=b.substr(tmp_b))
-                return a.substr(tmp_a)<=b.substr(tmp_b);
-            else
-                return a.substr(0,tmp_a-1)<b.substr(0,tmp_b-1);
-            }
-            return a<b;
-}
-
 class Solution {
 public:
     vector<string> reorderLogFiles(vector<string>& logs) {        
-        stable_sort(logs.begin(),logs.end(),compare);
+        stable_sort(logs.begin(),logs.end(),[](string a,string b){
+            int l=0b000,tmp_a=a.find(" ")+1,tmp_b=b.find(" ")+1;
+            if(isalpha(a[tmp_a]))
+                l^=0b001;
+            if(isalpha(b[tmp_b]))
+                l^=0b010;
+                switch(l){
+                    case 0b000:
+                        return false;
+                    case 0b001:
+                        return true;
+                    case 0b010:
+                        return false;
+                    case 0b011:
+                    if(a.substr(tmp_a)!=b.substr(tmp_b))
+                        return a.substr(tmp_a)<=b.substr(tmp_b);
+                    else
+                        return a.substr(0,tmp_a-1)<b.substr(0,tmp_b-1);
+                    }
+                    return a<b;
+                });
         return logs;
         /*
         vector<string> lt;
