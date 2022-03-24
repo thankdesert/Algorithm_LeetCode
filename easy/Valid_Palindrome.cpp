@@ -19,7 +19,19 @@ public:
             if(line[i] != line[j])
                 return false;
         }
-        
+   
         return true;
+        
+        /*
+        string line="";
+        for(int i=0;s.size()>i;++i)
+            if(isdigit(s[i])||isalpha(s[i]))
+                line.push_back(tolower(s[i]));
+        for(int i=0,j=line.size()-1;j>=i;++i,--j){
+            if(line[i]!=line[j])
+                return false;
+        }
+        return true;
+        */
     }
 };
