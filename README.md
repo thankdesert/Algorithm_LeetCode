@@ -186,6 +186,7 @@
   + [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Check_if_All_A's_Appears_Before_All_B's.cpp)
   + [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/N-Repeated_Element_in_Size_2N_Array.cpp)
   + [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Smallest_Index_With_Equal_Value.cpp)
+  + [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/The_K_Weakest_Rows_in_a_Matrix.cpp)
 * __stable_sort__
   + [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Reorder_Data_in_Log_Files.cpp)
 * __Graph__
