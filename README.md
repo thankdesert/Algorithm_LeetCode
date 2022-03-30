@@ -313,6 +313,7 @@
 * [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Reformat_Department_Table.mysql)
 * [Sales Person](https://leetcode.com/problems/sales-person/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Sales_Person.mysql)
 * [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Game_Play_Analysis_I.mysql)
+* [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Find_Customer_Referee.mysql)
 ### Medium
 * [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/medium/Consecutive_Numbers.mysql)
 * [Rank Scores](https://leetcode.com/problems/rank-scores/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/medium/Rank_Scores.mysql)
