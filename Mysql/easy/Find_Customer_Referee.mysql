@@ -1,0 +1,8 @@
+--from : https://leetcode.com/problems/find-customer-referee/
+
+
+# Write your MySQL query statement below
+
+SELECT name
+FROM Customer
+WHERE 2!=referee_id OR referee_id IS NULL;
