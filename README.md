@@ -323,6 +323,7 @@
 * [Article Views I](https://leetcode.com/problems/article-views-i/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Article_Views_I.mysql)
 * [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/edit/main/README.md)
 * [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Actors_and_Directors_Who_Cooperated_At_Least_Three_Times.mysql)
+* [Top Travellers](https://leetcode.com/problems/top-travellers/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Top_Travellers.mysql)
 ### Medium
 * [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/medium/Consecutive_Numbers.mysql)
 * [Rank Scores](https://leetcode.com/problems/rank-scores/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/medium/Rank_Scores.mysql)
