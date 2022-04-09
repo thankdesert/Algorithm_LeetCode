@@ -1,4 +1,4 @@
-# SH's Sources
+# 静夫's Sources
 > This is the space for source codes using to solve a problems from the [LeetCode](https://leetcode.com/).</br>
 > mainly be used : __C/C++__, Mysql</br>
 > If you want to exercise MySql on actual data sets, [this website](https://www.w3resource.com/sql-exercises/) will be great for you!   
@@ -326,6 +326,7 @@
 * [Top Travellers](https://leetcode.com/problems/top-travellers/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Top_Travellers.mysql)
 * [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Group_Sold_Products_By_The_Date.mysql)
 * [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Bank_Account_Summary_II.mysql)
+* [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.mysql)
 ### Medium
 * [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/medium/Consecutive_Numbers.mysql)
 * [Rank Scores](https://leetcode.com/problems/rank-scores/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/medium/Rank_Scores.mysql)
