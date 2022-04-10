@@ -327,6 +327,7 @@
 * [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Group_Sold_Products_By_The_Date.mysql)
 * [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Bank_Account_Summary_II.mysql)
 * [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.mysql)
+* [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Patients_With_a_Condition.mysql)
 ### Medium
 * [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/medium/Consecutive_Numbers.mysql)
 * [Rank Scores](https://leetcode.com/problems/rank-scores/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/medium/Rank_Scores.mysql)
