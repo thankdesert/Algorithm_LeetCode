@@ -328,6 +328,7 @@
 * [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Bank_Account_Summary_II.mysql)
 * [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.mysql)
 * [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Patients_With_a_Condition.mysql)
+* [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Find_Total_Time_Spent_by_Each_Employee.mysql)
 ### Medium
 * [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/medium/Consecutive_Numbers.mysql)
 * [Rank Scores](https://leetcode.com/problems/rank-scores/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/medium/Rank_Scores.mysql)
