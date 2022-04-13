@@ -330,6 +330,7 @@
 * [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Patients_With_a_Condition.mysql)
 * [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Find_Total_Time_Spent_by_Each_Employee.mysql)
 * [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Daily_Leads_and_Partners.mysql)
+* [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Recyclable_and_Low_Fat_Products.mysql)
 ### Medium
 * [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/medium/Consecutive_Numbers.mysql)
 * [Rank Scores](https://leetcode.com/problems/rank-scores/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/medium/Rank_Scores.mysql)
