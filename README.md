@@ -332,6 +332,7 @@
 * [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Daily_Leads_and_Partners.mysql)
 * [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Recyclable_and_Low_Fat_Products.mysql)
 * [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Rearrange_Products_Table.mysql)
+* [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Fix_Names_in_a_Table.mysql)
 ### Medium
 * [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/medium/Consecutive_Numbers.mysql)
 * [Rank Scores](https://leetcode.com/problems/rank-scores/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/medium/Rank_Scores.mysql)
