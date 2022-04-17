@@ -36,3 +36,36 @@ public:
         return answer;
     }
 };
+
+
+/*
+class Solution {
+public:
+    void dfs(TreeNode* root,multiset<int>& st){
+        if(NULL==root)
+            return;
+        st.insert(root->val);
+        dfs(root->left,st);
+        dfs(root->right,st);
+    }
+    TreeNode* increasingBST(TreeNode* root) {
+        if(NULL==root)
+            return NULL;
+        multiset<int> st;
+        dfs(root,st);
+        TreeNode* answer=NULL;
+        TreeNode* parent=NULL;
+        for(auto item:st){
+            if(NULL==answer){
+                answer=new TreeNode(item,NULL,NULL);
+                parent=answer;
+                continue;
+            }
+            parent->left=NULL;
+            parent->right=new TreeNode(item,NULL,NULL);
+            parent=parent->right;
+        }
+        return answer;
+    }
+};
+*/
