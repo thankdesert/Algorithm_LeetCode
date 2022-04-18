@@ -334,6 +334,7 @@
 * [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Rearrange_Products_Table.mysql)
 * [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Fix_Names_in_a_Table.mysql)
 * [Find Followers Count](https://leetcode.com/problems/find-followers-count/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Find_Followers_Count.mysql)
+* [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Calculate_Special_Bonus.mysql)
 ### Medium
 * [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/medium/Consecutive_Numbers.mysql)
 * [Rank Scores](https://leetcode.com/problems/rank-scores/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/medium/Rank_Scores.mysql)
