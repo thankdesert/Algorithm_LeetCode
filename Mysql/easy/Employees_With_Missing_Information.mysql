@@ -1,0 +1,12 @@
+--from : https://leetcode.com/problems/employees-with-missing-information/
+
+
+# Write your MySQL query statement below
+SELECT employee_id
+FROM (
+    SELECT employee_id FROM Employees
+    UNION ALL
+    SELECT employee_id FROM Salaries) tmp
+GROUP BY employee_id
+HAVING 1=COUNT(*)
+ORDER BY employee_id
