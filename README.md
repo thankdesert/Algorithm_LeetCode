@@ -336,6 +336,7 @@
 * [Find Followers Count](https://leetcode.com/problems/find-followers-count/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Find_Followers_Count.mysql)
 * [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Calculate_Special_Bonus.mysql)
 * [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/The_Latest_Login_in_2020.mysql)
+* [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/easy/Employees_With_Missing_Information.mysql)
 ### Medium
 * [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/medium/Consecutive_Numbers.mysql)
 * [Rank Scores](https://leetcode.com/problems/rank-scores/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/medium/Rank_Scores.mysql)
