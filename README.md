@@ -270,6 +270,7 @@
   + [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) > [Spurce](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Convert_Binary_Number_in_a_Linked_List_to_Integer.cpp)
   + [XOR Operation in an Array
 ](https://leetcode.com/problems/xor-operation-in-an-array/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/XOR_Operation_in_an_Array.cpp)
+  + [Array Partition I](https://leetcode.com/problems/array-partition-i/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Array_Partition_I.cpp)
 ### Medium
 * __naive__
   + [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Add_Two_Numbers.c)
