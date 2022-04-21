@@ -191,6 +191,8 @@
   + [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/N-Repeated_Element_in_Size_2N_Array.cpp)
   + [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Smallest_Index_With_Equal_Value.cpp)
   + [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/The_K_Weakest_Rows_in_a_Matrix.cpp)
+  + [Array Partition I](https://leetcode.com/problems/array-partition-i/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Array_Partition_I.cpp)
+  + [Baseball Game](https://leetcode.com/problems/baseball-game/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Baseball_Game.cpp)
 * __stable_sort__
   + [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Reorder_Data_in_Log_Files.cpp)
 * __Graph__
@@ -268,11 +270,7 @@
   + [Number Complement](https://leetcode.com/problems/number-complement/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Number_Complement.cpp)
   + [Binary Gap](https://leetcode.com/problems/binary-gap/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Binary_Gap.cpp)
   + [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) > [Spurce](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Convert_Binary_Number_in_a_Linked_List_to_Integer.cpp)
-  + [XOR Operation in an Array
-](https://leetcode.com/problems/xor-operation-in-an-array/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/XOR_Operation_in_an_Array.cpp)
-  + [Array Partition I](https://leetcode.com/problems/array-partition-i/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Array_Partition_I.cpp)
-  + [Baseball Game](https://leetcode.com/problems/baseball-game/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Baseball_Game.cpp)
-### Medium
+  + [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/XOR_Operation_in_an_Array.cpp)
 * __naive__
   + [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Add_Two_Numbers.c)
   + [Longest_Substring_Without_Repeating_Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/medium/Longest_Substring_Without_Repeating_Characters.c)
