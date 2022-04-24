@@ -193,6 +193,7 @@
   + [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/The_K_Weakest_Rows_in_a_Matrix.cpp)
   + [Array Partition I](https://leetcode.com/problems/array-partition-i/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Array_Partition_I.cpp)
   + [Baseball Game](https://leetcode.com/problems/baseball-game/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Baseball_Game.cpp)
+  + [Image Smoother](https://leetcode.com/problems/image-smoother/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Image_Smoother.cpp)
 * __stable_sort__
   + [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Reorder_Data_in_Log_Files.cpp)
 * __Graph__
