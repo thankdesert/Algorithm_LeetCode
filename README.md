@@ -196,6 +196,7 @@
   + [Image Smoother](https://leetcode.com/problems/image-smoother/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Image_Smoother.cpp)
   + [Flood Fill](https://leetcode.com/problems/flood-fill/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Flood_Fill.cpp)
   + [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Middle_of_the_Linked_List.cpp)
+  + [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Available_Captures_for_Rook.cpp)
 * __stable_sort__
   + [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Reorder_Data_in_Log_Files.cpp)
 * __Graph__
