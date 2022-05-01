@@ -1,0 +1,13 @@
+//from : https://leetcode.com/problems/market-analysis-i/
+
+
+# Write your MySQL query statement below
+
+SELECT user_id AS buyer_id,join_date,
+    SUM(CASE
+            WHEN order_id IS NOT NULL THEN 1 ELSE 0
+        END) AS orders_in_2019
+FROM users
+LEFT JOIN orders on users.user_id=orders.buyer_id AND 2019=year(order_date)
+GROUP BY user_id,join_date
+ORDER BY buyer_id
