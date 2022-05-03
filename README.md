@@ -208,6 +208,7 @@
   + [Min Stack](https://leetcode.com/problems/min-stack/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Min_Stack.cpp)
   + [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Next_Greater_Element_I.cpp)
   + [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/tree/main/easy)
+  + [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Implement_Queue_using_Stacks.cpp)
 * __multi set__
   + [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Merge_Sorted_Array.cpp)
 * __hash map__
