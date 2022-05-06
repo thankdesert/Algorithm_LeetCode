@@ -199,6 +199,7 @@
   + [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Available_Captures_for_Rook.cpp)
   + [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Intersection_of_Multiple_Arrays.cpp)
   + [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Defuse_the_Bomb.cpp)
+  + [Add Two Integers](https://leetcode.com/problems/add-two-integers/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Add_Two_Integers.cpp)
 * __stable_sort__
   + [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Reorder_Data_in_Log_Files.cpp)
 * __Graph__
