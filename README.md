@@ -201,6 +201,7 @@
   + [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Defuse_the_Bomb.cpp)
   + [Add Two Integers](https://leetcode.com/problems/add-two-integers/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Add_Two_Integers.cpp)
   + [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Contains_Duplicate_II.cpp)
+  + [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Number_of_Lines_To_Write_String.cpp)
 * __stable_sort__
   + [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Reorder_Data_in_Log_Files.cpp)
 * __Graph__
