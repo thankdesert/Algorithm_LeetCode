@@ -208,6 +208,7 @@
   + [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Find_if_Path_Exists_in_Graph.cpp)
 * __<time.h>__
   + [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Number_of_Days_Between_Two_Dates.cpp)
+  + [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Consecutive_Characters.cpp)
 * __stack__
   + [Min Stack](https://leetcode.com/problems/min-stack/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Min_Stack.cpp)
   + [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Next_Greater_Element_I.cpp)
