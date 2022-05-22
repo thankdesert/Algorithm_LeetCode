@@ -1,4 +1,4 @@
-# 静夫's Sources
+# 夫's Sources
 > This is the space for source codes using to solve a problems from the [LeetCode](https://leetcode.com/).</br>
 > mainly be used : __C/C++__, Mysql</br>
 > If you want to exercise MySql on actual data sets, [this website](https://www.w3resource.com/sql-exercises/) will be great for you!   
