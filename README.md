@@ -204,6 +204,7 @@
   + [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Number_of_Lines_To_Write_String.cpp)
   + [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Delete_Characters_to_Make_Fancy_String.cpp)
   + [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Goal_Parser_Interpretation.cpp)
+  + [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Percentage_of%20_in_String.cpp)
 * __stable_sort__
   + [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Reorder_Data_in_Log_Files.cpp)
 * __Graph__
