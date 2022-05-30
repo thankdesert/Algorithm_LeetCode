@@ -206,6 +206,7 @@
   + [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Goal_Parser_Interpretation.cpp)
   + [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Percentage_of%20_in_String.cpp)
   + [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Maximum_Number_of_Balloons.cpp)
+  + [Design Parking System](https://leetcode.com/problems/design-parking-system/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Design_Parking_System.cpp)
 * __stable_sort__
   + [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Reorder_Data_in_Log_Files.cpp)
 * __Graph__
