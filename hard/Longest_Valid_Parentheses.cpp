@@ -10,7 +10,7 @@ public:
         st.push(make_pair('*', 0));
         vector<int> v(s.size(), 0);
         
-        for(int i = 0; i<s.size(); i++) {
+        for(int i = 0; i < s.size(); i++) {
             if(st.top().first == '(' && s[i] == ')') {
                 v[st.top().second] = 1;
                 v[i] = 1;
