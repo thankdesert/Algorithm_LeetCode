@@ -4,7 +4,7 @@
 class Solution {
 public:
     bool isMonotonic(vector<int>& nums) {
-        int desc=0x000;
+        int desc = 0x000;
         if(1==nums.size())
             return true;
         else if(nums[nums.size()-1]>nums[0])
