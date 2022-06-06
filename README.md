@@ -1,7 +1,7 @@
 # 夫's Sources
 > This is the space for source codes using to solve a problems from the [LeetCode](https://leetcode.com/).</br>
 > mainly be used : __C/C++__, Mysql</br>
-> If you want to exercise MySql on actual data sets, [this website](https://www.w3resource.com/sql-exercises/) will be great for you!   
+> If you want to exercise MySql query on actual data sets, [this website](https://www.w3resource.com/sql-exercises/) will be great for you!   
 
 > このリポジトリははアルゴリズムやデータベースなどのコーディングの練習ができるホームページ[LeetCode](https://leetcode.com/)で、今まで私が作成してきたソースコードをまとめておいた空間です。 
 > 主に使ったプログラミング言語は __C/C++__ です。データベースの練習にはMySqlを使っています。 
