@@ -258,6 +258,7 @@
   + [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/N-ary_Tree_Preorder_Traversal.cpp)
   + [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Maximum_Depth_of_N-ary_Tree.cpp)
   + [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Root_Equals_of_Children.cpp)
+  + [https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Remove_Palindromic_Subsequences.cpp](https://leetcode.com/problems/remove-palindromic-subsequences/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Remove_Palindromic_Subsequences.cpp)
 * __dynamic programming__
   + [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Maximum_Subarray.c)
   + [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/easy/Best_Time_to_Buy_and_Sell_Stock.c)
