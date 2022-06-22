@@ -208,6 +208,7 @@
   + [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Maximum_Number_of_Balloons.cpp)
   + [Design Parking System](https://leetcode.com/problems/design-parking-system/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Design_Parking_System.cpp)
   + [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Remove_Palindromic_Subsequences.cpp)
+  + [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.cpp)
 * __stable_sort__
   + [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/easy/Reorder_Data_in_Log_Files.cpp)
 * __Graph__
