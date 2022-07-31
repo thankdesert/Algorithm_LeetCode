@@ -317,6 +317,8 @@
   + [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/medium/Partition_Equal_Subset_Sum.cpp)
 * __permutation/recursive__
   + [Subsets](https://leetcode.com/problems/subsets/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/medium/Subsets.cpp)
+* 3Sum_Problem
+  + [3Sum](https://leetcode.com/problems/3sum/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/medium/3sum.cpp)
 ## Hard
 * __dynamic programming__
   + [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) > [Source](https://github.com/thankdesert/LeetCode/blob/main/hard/Regular_Expression_Matching.cpp)
