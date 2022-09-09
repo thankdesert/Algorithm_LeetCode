@@ -371,4 +371,9 @@
 ### Hard
 * [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/hard/Department_Top_Three_Salaries.mysql)
 * [Trips and Users](https://leetcode.com/problems/trips-and-users/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/hard/Trips_and_Users.mysql)
-* [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/hard/Human_Traffic_of_Stadium.mysql)
+* [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) > [Query](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Mysql/hard/Human_Traffic_of_Stadium.mysql)  
+
+
+## PHP
+### Easy  
+* [Two Sum](https://leetcode.com/problems/two-sum/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/PHP/Easy/Two_Sum.php)
