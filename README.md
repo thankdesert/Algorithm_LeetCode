@@ -377,3 +377,4 @@
 ## PHP
 ### Easy  
 * [Two Sum](https://leetcode.com/problems/two-sum/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/PHP/Easy/Two_Sum.php)
+* [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/PHP/Easy/Climbing_Stairs.php)
