@@ -378,3 +378,6 @@
 ### Easy  
 * [Two Sum](https://leetcode.com/problems/two-sum/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/PHP/Easy/Two_Sum.php)
 * [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/PHP/Easy/Climbing_Stairs.php)
+
+## Bash
+* [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/) > [Source](https://github.com/thankdesert/Algorithm_LeetCode/blob/main/Bash/Valid_Phone_Numbers.sh)
